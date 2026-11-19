@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<metadataSupplement>
+    <tables>
+        <table dataLocale="en_US" dataSources="ds3378" resourceIdentifier="'cas-shared-default','CASUSER(Abdulraheem.Daoud@sas.com)','DRIVER_RISK_DATA_POLYGON','en_US'" tableModifiedTimeStamp="2025-07-02T16:53:56.575Z">
+            <columns>
+                <column dataType="double" format="BEST12." label="Traffic Number" xref="Traffic Number"/>
+                <column dataType="string" label="Driver Name" xref="Driver Name"/>
+                <column dataType="string" label="Datetime" xref="Datetime"/>
+                <column dataType="double" format="BEST12." label="Total Fine" xref="Total Fine"/>
+                <column dataType="string" label="Location" xref="Location"/>
+                <column dataType="double" format="BEST12." label="Latitude" xref="Latitude"/>
+                <column dataType="double" format="BEST12." label="Longitude" xref="Longitude"/>
+                <column dataType="string" label="Ticket Offence Description" xref="Ticket Offence Description"/>
+                <column dataType="string" label="Age Range" xref="Age Range"/>
+                <column dataType="double" format="BEST12." label="Age" xref="Age"/>
+                <column dataType="string" label="Gender" xref="Gender"/>
+                <column dataType="string" label="Nationality" xref="Nationality"/>
+                <column dataType="double" format="BEST12." label="Driving Experience (years in UAE)" xref="Driving Experience (years in UAE)"/>
+                <column dataType="string" label="Record Type" xref="Record Type"/>
+                <column dataType="string" label="Accident Type" xref="Accident Type"/>
+                <column dataType="string" label="Accident Cause" xref="Accident Cause"/>
+                <column dataType="double" format="BEST12." label="Intoxication" xref="Intoxication"/>
+                <column dataType="string" label="Car Model" xref="Car Model"/>
+                <column dataType="double" format="BEST12." label="Car Year" xref="Car Year"/>
+                <column dataType="string" label="Car Condition" xref="Car Condition"/>
+                <column dataType="double" format="BEST12." label="Driver Risk Score" xref="Driver Risk Score"/>
+                <column dataType="string" label="Road Status" xref="Road Status"/>
+                <column dataType="string" label="Weather" xref="Weather"/>
+            </columns>
+        </table>
+    </tables>
+    <version>2</version>
+</metadataSupplement>

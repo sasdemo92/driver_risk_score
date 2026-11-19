@@ -1,0 +1,252 @@
+
+
+#ve113 .ComboBox {
+  background-color: #CCCCCC;
+  color: #000000;
+}
+#ve2080 .paragraph1 {
+  text-align: center;
+}
+.KPIValueText {
+  text-color: #FFFFFF;
+  alt-text-color: #FFFFFF;
+}
+#ve138 .styleForTitle_span1 {
+  color: #FFFFFF;
+}
+#ve532 .paragraph1 {
+  font-size: 13.5pt;;
+}
+#ve10 .ReportElementContainer {
+  padding: 0px;
+}
+.DataText {
+  text-color: #FFFFFF;
+}
+.Report {
+  background-color: #FFFFFF;
+}
+#ve2620 .styleForTitle_span1 {
+  color: #FFFFFF;
+}
+#ve2607 .GraphDataStyleDefault {
+  fill-color: #2C8AD6;
+}
+#ve2140 .GraphDataStyle1 {
+  fill-color: #2C8AD6;
+}
+#ve546 .GraphDataStyle1 {
+  marker-color: #2470AD;
+  text-color: #2470AD;
+  fill-color: #2470AD;
+  line-color: #2470AD;
+}
+#ve2603 .span1 {
+  color: #0766D0;
+  font-weight: bold;
+  font-size: 28pt;
+  font-family: Arial;
+}
+#ve546 .GraphDataStyle2 {
+  fill-color: #616161;
+}
+#ve24 .ReportElementContainer {
+  padding: 0px;
+}
+#ve38 .ReportElementContainer {
+  padding: 0px;
+}
+.FootnoteText {
+  text-color: #FFFFFF;
+}
+#ve2140 .GraphSkin {
+  data-skin: FLAT;
+}
+#vi26 .ReportPagePadding {
+  padding: 0px;
+}
+#ve5364 .TipText {
+  text-color: #E9ECEF;
+}
+#ve2150 .GraphSkin {
+  data-skin: MATTE;
+}
+#vi153 .ReportPagePadding {
+  padding: 0px;
+}
+#ve31 .ReportElementContainer {
+  padding: 0px;
+}
+.KeyFrameValue {
+  text-color: #FFFFFF;
+}
+#ve8 .ReportElementContainer {
+  padding: 0px;
+}
+#ve5369 .GraphDataStyle1 {
+  fill-color: #2C8AD6;
+}
+#ve282 .styleForTitle_span1 {
+  color: #FFFFFF;
+}
+#ve540 .CustomStyle1 {
+  background-color: #91b7d6;
+  color: #000000;
+}
+* {
+  color: #FFFFFF;
+}
+#ve2069 .TextInput {
+  background-color: #FFFFFF;
+  color: #000000;
+}
+#ve5499 .Table {
+  wrap-text: normal;
+}
+#ve2080 .span1 {
+  color: #000000;
+  font-weight: bold;
+  font-size: 20pt;
+}
+#ve546 .GraphDataStyleDefault {
+  marker-color: #2470AD;
+  text-color: #2470AD;
+  fill-color: #2470AD;
+  line-color: #2470AD;
+}
+#ve104 .ComboBox {
+  background-color: #CCCCCC;
+  color: #000000;
+}
+.ValueText {
+  text-color: #FFFFFF;
+}
+.KPIRangeText {
+  text-color: #FFFFFF;
+  alt-text-color: #FFFFFF;
+}
+#ve2668 .span1 {
+  color: #0766D0;
+  font-weight: bold;
+  font-size: 28pt;
+  font-family: Arial;
+}
+#ve1685 .styleForTitle_paragraph1 {
+  text-align: center;
+}
+#ve2273 .GraphDataStyle2 {
+  fill-color: #B0B7C2;
+}
+#ve546 .TwoColorRamp {
+  fill-gradient-start-color: #c8dbea;
+  fill-gradient-end-color: #2470AD;
+}
+#ve2677 .span1 {
+  color: #0766D0;
+  font-weight: bold;
+  font-size: 28pt;
+  font-family: Arial;
+}
+#ve2172 .TipText {
+  text-color: #000000;
+}
+.TitleText {
+  text-color: #FFFFFF;
+}
+#ve2646 .ComboBox {
+  background-color: #CCCCCC;
+  color: #000000;
+}
+#ve5335 .TipText {
+  text-color: #E9ECEF;
+}
+#ve2607 .GraphDataStyle1 {
+  fill-color: #2C8AD6;
+}
+#ve3009 .span1 {
+  font-weight: bold;
+  font-size: 16pt;
+}
+#ve536 .CustomStyle1 {
+  background-color: #91b7d6;
+  color: #000000;
+}
+#ve2118 .GraphDataStyle1 {
+  fill-color: #2C8AD6;
+}
+#vi40 .ReportPagePadding {
+  padding: 0px;
+}
+.NodeLabel {
+  text-color: #FFFFFF;
+}
+#ve2607 .styleForTitle_paragraph1 {
+  text-align: center;
+}
+.LabelText {
+  text-color: #FFFFFF;
+}
+#ve2653 .ComboBox {
+  background-color: #CCCCCC;
+  color: #000000;
+}
+#ve138 .TipFill {
+  fill-color: #000000;
+}
+#ve1996 .span1 {
+  color: #0766D0;
+  font-weight: bold;
+  font-size: 28pt;
+  font-family: Arial;
+}
+#ve294 .TipText {
+  text-color: #FFFFFF;
+}
+#ve546 .TwoColorRamp1 {
+  fill-gradient-start-color: #c8dbea;
+  fill-gradient-end-color: #2470AD;
+}
+#ve5369 .GraphDataStyleDefault {
+  fill-color: #2C8AD6;
+}
+#ve2118 .GraphDataStyleDefault {
+  fill-color: #2C8AD6;
+}
+#ve454 .paragraph1 {
+  white-space: pre-line;
+}
+.NodeInputLabel {
+  text-color: #FFFFFF;
+}
+#ve2140 .GraphDataStyleDefault {
+  fill-color: #2C8AD6;
+}
+#ve294 .GraphDataStyle3 {
+  fill-color: #84414B;
+}
+#ve294 .GraphDataStyle2 {
+  fill-color: #B0B7C2;
+}
+#ve1685 .TipText {
+  text-color: #000000;
+}
+.ReportElementContainer {
+  padding: 0px;
+}
+#ve151 .ReportElementContainer {
+  padding: 0px;
+}
+#ve2663 .span1 {
+  color: #0766D0;
+  font-weight: bold;
+  font-size: 28pt;
+  font-family: Arial;
+}
+#vi6 .ReportPagePadding {
+  padding: 0px;
+}
+#vi33 .ReportPagePadding {
+  padding: 0px;
+}
+
+			
